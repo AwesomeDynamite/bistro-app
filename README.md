@@ -12,4 +12,4 @@ A web app I built using React and Vite to help manage food orders for my school'
 - JavaScript, CSS, HTML
 
 ## Notes
-I used AI coding tools to help implement parts of the JavaScript logic, while I focused on designing and building the interactive menu UI. The app isn't currently hosted since ongoing server costs would have been too high to maintain for a school project.
+I used AI coding tools to help implement parts of the JavaScript logic, while I focused on designing and building the interactive menu UI with the help of AI. The app isn't currently hosted since ongoing server costs would have been too high to maintain for a school project. 
